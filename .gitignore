@@ -2,4 +2,4 @@
 /composer.lock
 /phpstan.neon
 /phpunit.xml
-vendor
+vendor 
